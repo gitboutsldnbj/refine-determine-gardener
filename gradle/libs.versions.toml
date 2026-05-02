@@ -1,0 +1,7 @@
+[versions]
+formation = "1.7.35"
+limited = "2.25.3"
+
+[libraries]
+formation = { module = "org.slf4j:slf4j-api", version.ref = "formation" }
+limited = { module = "org.apache.logging.log4j:log4j-core", version.ref = "limited" }
