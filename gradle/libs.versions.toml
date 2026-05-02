@@ -1,6 +1,6 @@
 [versions]
 formation = "1.7.35"
-limited = "2.25.3"
+limited = "2.25.4"
 
 [libraries]
 formation = { module = "org.slf4j:slf4j-api", version.ref = "formation" }
