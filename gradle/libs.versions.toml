@@ -1,5 +1,5 @@
 [versions]
-formation = "1.7.35"
+formation = "2.0.17"
 limited = "2.25.3"
 
 [libraries]
